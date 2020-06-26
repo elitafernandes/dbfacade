@@ -1,6 +1,6 @@
 <?php
 
-namespace core\database;
+namespace core\database\interfaces;
 
 /**
  * interface IConnection
